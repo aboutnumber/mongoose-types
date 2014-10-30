@@ -12,7 +12,7 @@ mongoose-types - Useful types and type plugins for Mongoose
   Adds `createdAt` and `updatedAt` date attributes that get auto-assigned to the most recent create/update timestamp.
 
 ### Installation
-    npm install mongoose-types
+    npm install aboutnumber/mongoose-types
 
 ### Setup
 
@@ -91,13 +91,12 @@ To run tests:
 
 ### Contributors
 
+- [MrDHat](https://github.com/MrDHat)
+
+Original module by:
+
 - [Brian Noguchi](https://github.com/bnoguchi)
 
 ### License
 
 MIT License
-
----
-### Author
-
-Brian Noguchi
